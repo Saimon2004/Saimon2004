@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Simon Salomon</h1>
 
 <!--
 **Saimon2004/Saimon2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
